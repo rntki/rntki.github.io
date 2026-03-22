@@ -27,6 +27,7 @@ h1 {
   font-family: "Roboto mono", monospace;
   font-size: 3rem;
   margin-bottom: 1.5rem;
+  cursor: url("Favourites.png"), auto;
 }
 
 p {
@@ -53,6 +54,7 @@ p a {
 p a:hover {
   border-color: #1d1059;
   color: #1d1059;
+  cursor: url("Favourites.png"), auto;
 }
 
 nav a {
